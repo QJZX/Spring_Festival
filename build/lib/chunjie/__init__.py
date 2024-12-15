@@ -1,6 +1,6 @@
 from .logo import *
 
-__version__ = "2025"
+__version__ = "2025.01"
 
 __doc__ = '''
 2025春节彩蛋
