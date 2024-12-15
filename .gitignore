@@ -1,0 +1,4 @@
+venv/
+Spring_Festival.egg-info/
+dist/
+__pycache__/
